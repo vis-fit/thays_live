@@ -84,7 +84,7 @@ document.getElementById("resetBg").addEventListener("click", ()=>{
   container.style.background="linear-gradient(to bottom, #111, #000)";
 });
 
-// restaurar fundo
+// restaurar fundoo
 window.addEventListener("DOMContentLoaded", ()=>{
   //Ajuste
   /*const bg = localStorage.getItem("galeryBg");
