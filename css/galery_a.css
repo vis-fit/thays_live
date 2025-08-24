@@ -5,11 +5,6 @@ body {
   color:white;
 }
 
-body.update-page {
-  background: #000000;
-  color: #f1e6e6;
-}
-
 .titulo {
   text-align:center;
   margin:20px 0;
@@ -51,7 +46,7 @@ button:hover { background:#caa84a; }
 .gift-block input { width:90%; margin:5px 0; padding:5px; }
 
 #container {
-  width:50%;
+  width:80%;
   margin:0 auto;
   height:100vh;
   background:linear-gradient(to bottom,#222,#000);
